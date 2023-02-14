@@ -1,7 +1,7 @@
 {
   "index_name": "index",
   "start_urls": [
-	"https://illustrious-mooncake-00c188.netlify.app/en/introduction/"
+	"https://illustrious-mooncake-00c188.netlify.app/en/"
   ],
   "sitemap_urls": [
 	"https://illustrious-mooncake-00c188.netlify.app/sitemap-index.xml"
