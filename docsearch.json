@@ -1,10 +1,10 @@
 {
   "index_name": "index",
   "start_urls": [
-	"https://illustrious-mooncake-00c188.netlify.app/en/"
+	"https://testing.whatswrongnowdad.com/"
   ],
   "sitemap_urls": [
-	"https://illustrious-mooncake-00c188.netlify.app/sitemap-index.xml"
+	"https://testing.whatswrongnowdad.com/sitemap-index.xml"
   ],
   "selectors": {
 	"lvl0": ".page-heading",

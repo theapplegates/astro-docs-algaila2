@@ -2,6 +2,7 @@
 title: "Introduction"
 description: "Docs intro"
 ---
+![Apple-Support-Image](https://applegate-paul.mo.cloudinary.net/zoom/apple-support.jpg)
 
 **Welcome to Astro!**
 

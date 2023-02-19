@@ -1,6 +1,6 @@
 export const SITE = {
-	title: 'Documentation',
-	description: 'Your website description.',
+	title: 'Electronics Made Easy',
+	description: 'This site is a helpful guide for my Dad. Open source to anyone to help contribute.',
 	defaultLanguage: 'en-us',
 } as const;
 
@@ -36,10 +36,10 @@ export type Sidebar = Record<
 >;
 export const SIDEBAR: Sidebar = {
 	en: {
-		'Section Header': [
-			{ text: 'Introduction', link: 'en/introduction' },
-			{ text: 'Page 2', link: 'en/page-2' },
-			{ text: 'Page 3', link: 'en/page-3' },
+		'Apple Items': [
+			{ text: 'The Apple iPhone', link: 'en/introduction' },
+			{ text: 'Overview', link: 'en/page-2' },
+			{ text: 'Tips & Tricks', link: 'en/page-3' },
 		],
 		'Another Section': [{ text: 'Page 4', link: 'en/page-4' }],
 	},
