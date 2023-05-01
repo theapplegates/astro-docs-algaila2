@@ -15,6 +15,7 @@ export default defineConfig({
   preact(),
   // Enable React for the Algolia search component.
   react(), sitemap(), image({
+      format: ['avif', 'webp'],
       serviceEntryPoint: '@astrojs/image/sharp'
     })],
   site: `https://testing.whatswrongnowdad.com`
